@@ -41,7 +41,8 @@ I enjoy turning **raw data into actionable insights** and building **end-to-end 
 
 **Backend & Deployment**
 
-* Flask, FastAPI
+* FastAPI
+* HuggingFace
 
 ---
 
@@ -63,4 +64,4 @@ I enjoy turning **raw data into actionable insights** and building **end-to-end 
 📫 **Reach me at:**
 
 * Email: **[ranggakiat26@gmail.com](mailto:ranggakiat26@gmail.com)**
-* LinkedIn: [https://www.linkedin.com/in/rangga-kiat](https://www.linkedin.com/in/rangga-kiat)
+* LinkedIn: [Rangga Irwanto Putra Kiat](https://www.linkedin.com/in/rangga-kiat)
